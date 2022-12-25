@@ -1,0 +1,16 @@
+C:\Users\yairgaf\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\yairgaf\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\yairgaf\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\yairgaf\source\repos\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\yairgaf\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\yairgaf\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\yairgaf\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\yairgaf\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\yairgaf\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.CustomerManagerOpen.resources
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.exe
+C:\Users\nirnoam\Downloads\Project\Project\obj\Debug\Project.pdb
